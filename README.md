@@ -1,0 +1,2 @@
+# Electrostore
+We are developing the “Electrostore”. We mainly focus on Process of “Electronic product selling  and purchasing”.  The main objective of “Electrostore” is to automate all functionalities of electronic products. We build  Admin module, Customer module, Supplier module to make all functions easily. Using this Web, you can  manage all electronic suppliers work like “Mobile”, “Laptop”, “Tablet” and “Television” etc. Using this  “Electrostore” also you can manage all customer services.
